@@ -7,7 +7,7 @@ body{
 section{
     height: 600px;
 }
-
+/* first section start */
 .half-width{
     width: 40%;
     float: left;
@@ -50,4 +50,21 @@ p{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+/* second section start */
+
+.moveon{
+    margin-top: 100px;
+    padding-top: 130px;
+    padding-right: 10px;
+}
+.maiz-banner{
+    background-image: url("image/2887478.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 150px;
+    
+
 }
