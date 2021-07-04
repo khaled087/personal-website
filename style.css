@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+}
+section{
+    height: 600px;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 30px;
+    padding: 35px;
+}
+.image{
+    width: 480px;
+    height: auto;
+    margin-left: 15px;
+}
+.movedown{
+    padding-top: 50px;
+    margin-top: 60px;
+    padding-left: 35px;
+}
+h2{
+    color: darkblue;
+    font-weight: 100px;
+    font-family: 'Federo', sans-serif;
+    font-size: 30px;
+}
+h1{
+    font-family: 'Aclonica', sans-serif;
+    color: orangered;
+    font-size: 45px;
+}
+p{
+    margin-bottom: 40px;
+}
+.button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 12px 30px 12px 30px;
+    border-radius: 50px;
+    color: white;
+}
+.top-banner{
+    background-image: url("image/background-clean.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
