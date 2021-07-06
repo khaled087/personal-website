@@ -60,11 +60,96 @@ p{
     padding-right: 10px;
 }
 .maiz-banner{
-    background-image: url("image/2887478.jpg");
+    background-image: url("image/bg-1.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 150px;
     
+
+}
+/*   third section  */
+.lt-job{
+    width: 380px;
+    height: 280px;
+    margin: 10px;
+    padding: 15px;
+}
+.latest-work{
+    width: 26%;
+    height: auto;
+    float: left;
+    margin: 10px;
+    padding: 25px;
+}
+.work{
+    background-image: url("image/1\ \(1\).jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+.work h1{
+    text-align: center;
+   padding-top: 30px;
+   padding-left: 60px
+}
+.moved{
+    padding-top: 40px;
+    
+}
+
+/* forth section */
+.finish h1{
+    text-align: center;
+    padding-top:50px;
+}
+.finish-body{
+    margin-top: 80px;
+}
+.finish-body h3, p{
+    text-align: center;
+}
+.papragraph p{
+    padding-left: 450px;
+    padding-right: 450px;
+    font-weight: 500;
+    font-size: 16px;
+    margin-bottom: 100px;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+.contact a, p{
+    text-decoration: none;
+    color:;
+}
+.contact{
+    background-color: blueviolet;
+    height: 120px;
+    margin-left: 340px;
+    margin-right: 340px;
+    padding-top: 30px;
+    padding-bottom: 35px;
+    border-radius: 15px;
+    
+    
+}
+.comment{
+    color: white;
+    font-weight: 500;
+    font-family: 'Montserrat Alternates', sans-serif;"
+}
+.mesage{
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+/* footer section*/
+
+.footer{
+    width: 100%;
+   
+    padding-top: 200px;
+    padding-bottom: 15px;
 
 }
