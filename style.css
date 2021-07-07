@@ -8,6 +8,15 @@ section{
     height: 600px;
 }
 /* first section start */
+.header{
+    padding-top: 10px;
+    padding-left: 30px;
+}
+.header img{
+ width: 50px;
+ height: 50px;
+ border-radius: 50%;
+}
 .half-width{
     width: 40%;
     float: left;
@@ -38,6 +47,9 @@ h1{
 p{
     margin-bottom: 40px;
 }
+.align{
+    text-align: left;
+}
 .button{
     text-decoration: none;
     background-color: orangered;
@@ -46,10 +58,12 @@ p{
     color: white;
 }
 .top-banner{
-    background-image: url("image/background-clean.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-image: url("image/4ad4d0653d1cafac8283fb71ca125338\ \(1\).jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+
+   padding-bottom: 250px;
 }
 
 /* second section start */
@@ -60,7 +74,7 @@ p{
     padding-right: 10px;
 }
 .maiz-banner{
-    background-image: url("image/bg-1.jpg");
+    background-image: url("image/puzzle-pieces-simple-background-minimalism.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -83,12 +97,12 @@ p{
     padding: 25px;
 }
 .work{
-    background-image: url("image/1\ \(1\).jpg");
+    background-image: url("image/cosmetic-white-background-for-product-presentation-free-photo.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 30px;
-    padding-bottom: 40px;
+    padding-bottom: 80px;
 }
 .work h1{
     text-align: center;
@@ -119,9 +133,17 @@ p{
     margin-bottom: 100px;
     font-family: 'Montserrat Alternates', sans-serif;
 }
+.finish{
+    background-image: url("image/minimalism-1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom: 320px;
+}
 .contact a, p{
     text-decoration: none;
-    color:;
+    
 }
 .contact{
     background-color: blueviolet;
@@ -148,8 +170,9 @@ p{
 
 .footer{
     width: 100%;
-   
-    padding-top: 200px;
+    height: 40px;
+    background-image: linear-gradient(90deg, lightblue, lightcyan);
+    padding-top: 10px;
     padding-bottom: 15px;
 
 }
